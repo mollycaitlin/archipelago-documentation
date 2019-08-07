@@ -4,14 +4,13 @@ Archipelago Commons, or simple Archipelago, is an evolving Open-Source Digital O
 on the popular CMS [`Drupal8/9`](https://www.drupal.org) and released under [`GLP V.3 Licence`](https://www.gnu.org/licenses/gpl-3.0.txt). 
 
 It is a mix of deeply integrated custom coded Drupal8 modules (made with care by us), a curated and well configured Drupal8 instance, running under a discrete and and well planned set of service containers. 
-All this driven by a clear and [concise but thoughtfull planned technical roadmap](https://github.com/esmero/archipelago-deployment/issues/5). 
+All this driven by a clear and [concise but thoughtfully planned technical roadmap](https://github.com/esmero/archipelago-deployment/issues/5). 
 
-Archipelago was dreamt as a multi-tenat, distributed capable system (as its name suggests!) and can live isolated or in flocks of similar deployments, sharing storage, services or even better, just the discovery layer. Learn more about the different [`Software Services`](devops.md) used by Archipelago.
+Archipelago was dreamt as a multi-tenant, distributed system (as its name suggests!). It can live isolated or in flocks of similar deployments that share storage, services or, even better, just the discovery layer. Learn more about the different [`Software Services`](devops.md) used by Archipelago.
 
-Its primary focus is to serve the [`GLAM community`](https://en.wikipedia.org/wiki/GLAM_(industry_sector)) by providing a flexible, 
-respectful to identities and existing workflows, consistent and unified way of describing, storing, linking, exposing metadata and media assets. 
+Its primary focus is to serve the [`GLAM community`](https://en.wikipedia.org/wiki/GLAM_(industry_sector)) by providing a flexible, consistent and unified way of describing, storing, linking, exposing metadata and media assets that is respectful to identities and existing workflows.
 
-All this under a bit different concept than the one we all have been used to in recent times. 
+This is a different model from what we're use to. 
 
 We like to think this is not done by re-inventing the wheel, but by making sure the road is clean, leveled and with less obstacles
 than before, by removing some heavy weight from the top, some unneeded ballast, plus, of course, some well positioned innovations to make the ride enjoyable. 
